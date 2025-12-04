@@ -22,8 +22,8 @@ A simple implementation of the classic Flappy Bird game in Java using Swing.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/celiahmm/flappy-bird.git
-cd flappy-bird/src
+git clone https://github.com/hrishabh1103/Bird_Game_Flappy.git
+
 ```
 
 2. Run the game:
@@ -62,6 +62,4 @@ java Game
 Just a little learning project :)  
 Feel free to play and improve it! ✨
 # Bird_Game_Flappy
-# Bird_Game_Flappy
-# Bird_Game_Flappy
-# Bird_Game_Flappy
+
